@@ -12,4 +12,5 @@ For the best experience I recommend installing [jupyter](https://jupyter.org/ins
 the notebooks locally on your own machine, however it is also possible to run them online using
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb).
 
-1. Digital IIR Filters [Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/01_Digital-IIR-Filters.ipynb) [Github](https://github.com/jd-13/dsp-math-for-audio/blob/master/01_Digital-IIR-Filters.ipynb)
+## Contents
+1. **Digital IIR Filters** [Run on Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/01_Digital-IIR-Filters.ipynb) | [View on Github](https://github.com/jd-13/dsp-math-for-audio/blob/master/01_Digital-IIR-Filters.ipynb)
