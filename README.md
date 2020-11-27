@@ -13,8 +13,10 @@ the notebooks locally on your own machine, however it is also possible to run th
 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb).
 
 ## Contents
-Below you can find links to the interactive versions of each notebook on Colab, and the static versions on Github.
+Below you can find links to the interactive versions of each notebook on Colab, or you can view the
+static versions on Github by browsing through the repo.
 
 1. **Digital IIR Filters** ([Run on Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/01_Digital-IIR-Filters.ipynb))
 2. **Envelope Followers (Part 1)** ([Run on Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/02_Envelope-Followers.ipynb))
 3. **Envelope Followers (Part 2 - Filters)** ([Run on Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/03_Envelope-Followers-Part-2.ipynb))
+4. **Compressors** ([Run on Colab](https://colab.research.google.com/github/jd-13/dsp-math-for-audio/blob/master/04_Compressors.ipynb))
